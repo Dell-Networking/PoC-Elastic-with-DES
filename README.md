@@ -9,7 +9,7 @@ Built and maintained by [Ben Goldstone](https://github.com/benjamingoldstone/) a
 
 ------------------
 
-Template for IaaC MBO - 2HFY24!
+The template for IaaC MBO - 2HFY24!
 
 This is the template repo for Dell Enterprise SONiC Proof-of-Concept repos. Adopt this repo as you see fit to meet your needs as you build out a reference PoC repo.
 
